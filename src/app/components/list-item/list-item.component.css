@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #a1a1a1;
+    padding: 10px;
+}
+
+.container:hover {
+    background-color: #3f3f9e33;
+}
+
+.list-item-check, .list-item-options {
+    flex: 0 0 auto;
+}
+
+.list-item-content {
+    flex: 1 1 auto;
+    padding: 0 10px;
+}
+
+#button-favourite {
+    width: auto;
+    min-width: auto;
+    padding: 0px;
+    color: orange;
+}
+
+#btn-favourite .material-icons-outlined {
+    color: orange;
+}
+
+.list-item-content .due-date {
+    font-size: small;
+    color: #aaa;
+}

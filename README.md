@@ -1,4 +1,8 @@
-# Tuto
+<p align="center">
+  <img src="./scrennshoot.png" title="hover text">
+</p>
+
+# TodoAPP Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
