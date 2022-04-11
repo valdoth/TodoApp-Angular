@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./scrennshoot.png" title="hover text">
+  <img src="./images.png">
 </p>
 
 # TodoAPP Angular
